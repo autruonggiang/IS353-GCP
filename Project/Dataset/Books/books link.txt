@@ -1,0 +1,2 @@
+https://www.researchgate.net/publication/374193047_Big_Data_Analytics_in_Cloud_Platform
+https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform

@@ -1,0 +1,6 @@
+- Bước 1: Truy cập vào Big Query.
+- Bước 2: Kiểm tra thông tin dataset Stack Overflow.
+- Bước 3: Tạo schema mới trong project.
+- Bước 4: Tạo các table lần lượt từ thông tin public dataset.
+- Bước 5: Kiểm tra nội dung table trùng khớp không.
+

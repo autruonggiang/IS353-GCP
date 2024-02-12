@@ -1,0 +1,6 @@
+- Bước 1: Truy cập vào Big Query.
+- Bước 2: Xem schema users để phân tích dữ liệu người dùng hiện tại.
+- Bước 3: Xếp theo location, lọc các giá trị null.
+- Bước 4: Trích xuất thông tin người dùng.
+- Bước 5: Phân tích vị trí của nhóm người dùng có độ uy tín cao.
+- Bước 6: Phân tích những câu hỏi thường gặp và hiển thị ra biểu đồ

@@ -1,0 +1,8 @@
+- Bước 1: Xử lý các khoảng trống thừa trong comments.
+- Bước 2: Xem xét các câu truy vấn, đưa data đã làm được chuẩn hóa vào một table mới hoặc cập nhật lại table cũ.
+* Ngoài ra ta có thể sử dụng Cloud Dataprep để xử lý dữ liệu một cách trực quan hóa và dễ dàng hơn.
+- Bước 1: Đầu tiên thêm data từ bigquery vào dataprep.
+- Bước 2: Tạo recipe, lên kế hoạch thực hiện các bước xử lý dữ liệu.
+- Bước 3: Tạo output lưu vào Google Storage)
+- Bước 4: Lấy dữ liệu đã xử lý từ Google Storage, thêm vào trong project của BigQuery.
+- Bước 5: Kiểm tra table "new_post_history" đã có trong BigQuer.y
