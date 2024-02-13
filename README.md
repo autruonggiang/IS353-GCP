@@ -1,5 +1,4 @@
 # IS353 - Social networks
-## Topic: Social network data processing is based on Google Cloud Platform technology
 
 ## I - Implemented content:
 ### 1. Learn big data deployment technologies.
