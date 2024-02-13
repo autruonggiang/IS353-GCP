@@ -1,5 +1,9 @@
 # IS353 - Social networks
 
+<div align="center">
+<img src="Project/GCP_ComponentsArchitectureDiagram.png" alt="Components Architecture""/>
+</div>
+
 ## I - Implemented content:
 ### 1. Learn big data deployment technologies.
   + Select technology to learn: Google Cloud Platform.
