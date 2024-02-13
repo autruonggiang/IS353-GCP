@@ -27,7 +27,7 @@
 
 
 
-## II - Organize DAMH folder:
+## II - Organize DAMH (Project) folder:
 - Document: Project report (including doc files, slides and their pdf versions).
 
 - Technology:
