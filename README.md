@@ -56,3 +56,8 @@ Project report (including doc files, slides and their pdf versions).
   + General demo scenario.
 
 There is also a job assignment sheet for each member.
+
+## Languages and Tools
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=gcp,&perline=10" />
+</a>
