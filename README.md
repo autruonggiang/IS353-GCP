@@ -8,7 +8,7 @@
   Components Architecture
 </div>
 
-## Table of contents
+## Contents
 
 ### I - Implemented content:
 #### 1. Learn big data deployment technologies.
