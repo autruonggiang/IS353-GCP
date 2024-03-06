@@ -1,4 +1,4 @@
-# IS353 - Social Networks
+# IS353 - Social Networks's Project
 
 <div align="center">
 <img src="Project/GCP_ComponentsArchitectureDiagram.png" alt="Components Architecture""/>
