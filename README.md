@@ -62,5 +62,18 @@ There is also a job assignment sheet for each member.
 <img src="https://skillicons.dev/icons?i=gcp,&perline=10" />
 </a>
 
-# REFERENCES
+## REFERENCES
 - <a href="https://github.com/mikeroyal/Google-Cloud-Guide">Google Cloud Platform (GCP) Guide</a>
+
+## Study and Reference Materials
+
+1. "Social and Economic Networks: Models and Analysis," Stanford University (Coursera), by Matthew O. Jackson.
+2. "Giáo trình Phân tích Mạng Xã Hội và ứng dụng," by PGS.TS. Đỗ Phúc.
+3. "Social Network Analysis," by John Scott, SAGE Publications Ltd, 2012.
+4. "Social Networks. Development, Evaluation and Influence," Nova Science Publishers, Inc. New York, 2008.
+5. "Social Network Analysis: Methods and Applications," Cambridge University Press, Cambridge, New York, 1994.
+
+## Software or Tools for Practice
+
+1. Main software: R
+2. Other software: Python, Pajek, Gephi, NetLogo.
